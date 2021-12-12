@@ -1,11 +1,12 @@
 <?php
+
 /**
  * Catalan language file
  *
  * @license    GPL 2 (http://www.gnu.org/licenses/gpl.html)
- * @author     Joan <aseques@gmail.com>
+ *
+ * @author Joan <aseques@gmail.com>
  */
- 
 $lang['encoding']              = 'utf-8';
 $lang['direction']             = 'ltr';
 $lang['doesntexist']           = 'aquest namespace no existeix: ';
